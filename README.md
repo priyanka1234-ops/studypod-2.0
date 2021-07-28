@@ -29,7 +29,7 @@
                 <th width="350">S.No</th>
                 <th width="350">Date</th>
                 <th width="350">File Name</th>
-                <th width="350">Task</th>
+                <th width="350">Program</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
@@ -46,7 +46,7 @@
                     <td>2</td>
                     <td>28/07/2021</td>
                     <td>array</td>
-                    <td>Array</td>
+                    <td>Array </td>
                     <td>NO</td>
                     <td></td>
                 </tr>
