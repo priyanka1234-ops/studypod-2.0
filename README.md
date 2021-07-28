@@ -11,8 +11,8 @@
                                  <p><b>Name : </b><i>PRIYANKA</i></p>
                                  <p><b>Branch : </b><i>EE</i></p>
                                  <p><b>Year : </b><i>1st</i></p>
-                                 <p><b>SP No. : </b><i>SP0234</i></p>
-                                 
+                                 <p><b>SP No. : </b><i>SP0232</i></p>
+                                 <p><b>Mentor Name : </b><i>Jainy Jain</i></p>
                              </div>
                             </font>
                         </td>
@@ -29,7 +29,7 @@
                 <th width="350">S.No</th>
                 <th width="350">Date</th>
                 <th width="350">File Name</th>
-                <th width="350">Program</th>
+                <th width="350">Task</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </thead>
@@ -37,16 +37,16 @@
                 <tr>
                     <td>1</td>
                     <td>27/07/2021</td>
-                    <td>simcal.cpp</td>
-                    <td>simple calculator using switch case</td>
+                    <td>simcal</td>
+                    <td>Simple Calculator</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>2</td>
                     <td>28/07/2021</td>
-                    <td>array.cpp</td>
                     <td>array</td>
+                    <td>Array</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
@@ -54,3 +54,7 @@
         </table>
     </div>
 </body>
+                             
+                                
+                                 
+                           
