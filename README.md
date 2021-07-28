@@ -11,7 +11,7 @@
                                  <p><b>Name : </b><i>PRIYANKA</i></p>
                                  <p><b>Branch : </b><i>EE</i></p>
                                  <p><b>Year : </b><i>1st</i></p>
-                                 <p><b>SP No. : </b><i>SP0232</i></p>
+                                 <p><b>SP No. : </b><i>SP0234</i></p>
                                  <p><b>Mentor Name : </b><i>Jainy Jain</i></p>
                              </div>
                             </font>
