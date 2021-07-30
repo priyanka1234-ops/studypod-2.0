@@ -37,7 +37,7 @@
                 <tr>
                     <td>1</td>
                     <td>27/07/2021</td>
-                    <td>simcal</td>
+                    <td>simcal.cpp</td>
                     <td>Simple Calculator</td>
                     <td>NO</td>
                     <td></td>
@@ -45,8 +45,24 @@
                 <tr>
                     <td>2</td>
                     <td>28/07/2021</td>
-                    <td>array</td>
+                    <td>array.cpp</td>
                     <td>Array </td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td>1</td>
+                    <td>27/07/2021</td>
+                    <td>fun.cpp</td>
+                    <td>Function</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>30/07/2021</td>
+                    <td>struct.cpp</td>
+                    <td>Structure</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
