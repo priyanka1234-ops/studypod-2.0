@@ -51,7 +51,7 @@
                     <td></td>
                 </tr>
                  <tr>
-                    <td>1</td>
+                    <td>3</td>
                     <td>27/07/2021</td>
                     <td>fun.cpp</td>
                     <td>Function</td>
@@ -59,7 +59,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>2</td>
+                    <td>4</td>
                     <td>30/07/2021</td>
                     <td>struct.cpp</td>
                     <td>Structure</td>
@@ -67,7 +67,7 @@
                     <td></td>
                 </tr>
                 <tr>
-                    <td>2</td>
+                    <td>5</td>
                     <td>31/07/2021</td>
                     <td>rec.cpp</td>
                     <td>Recursion</td>
@@ -75,7 +75,7 @@
                     <td></td>
                 </tr>
                  <tr>
-                    <td>2</td>
+                    <td>6</td>
                     <td>01/08/2021</td>
                     <td>filed.cpp</td>
                     <td>default arguments </td>
