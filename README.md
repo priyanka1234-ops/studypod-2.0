@@ -96,6 +96,14 @@
                     <td>Nesting of member Function</td>
                     <td>NO</td>
                 <td></td>          
+                </tr>  
+                </tr>
+                   <td>8</td>
+                    <td>03/08/2021</td>
+                    <td>shop.cpp</td>
+                    <td>Arrays in Class</td>
+                    <td>NO</td>
+                <td></td>          
                 </tr>
           </tbody>
         </table>
