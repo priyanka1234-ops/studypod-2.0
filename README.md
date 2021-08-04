@@ -97,25 +97,7 @@
                     <td>NO</td>
                 <td></td>          
                 </tr>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-            </tbody>
+          </tbody>
         </table>
     </div>
 </body>
