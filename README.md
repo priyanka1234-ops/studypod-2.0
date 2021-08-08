@@ -101,9 +101,33 @@
                    <td>9</td>
                     <td>04/08/2021</td>
                     <td>shop.cpp</td>
-                    <td>Arrays in Class</td>
+                    <td>Using Arrays in Class</td>
                     <td>NO</td>
-                <td></td>          
+                <td></td>   
+                 </tr>  
+                </tr>
+                   <td>10</td>
+                    <td>05/08/2021</td>
+                    <td>static.cpp</td>
+                    <td>Statics Variables & function in OOPs</td>
+                    <td>NO</td>
+                <td></td>   
+                 </tr>  
+                </tr>
+                   <td>11</td>
+                    <td>06/08/2021</td>
+                    <td>frifun.cpp</td>
+                    <td>Friend Function</td>
+                    <td>NO</td>
+                <td></td>  
+                 </tr>  
+                </tr>
+                   <td>12</td>
+                    <td>07/08/2021</td>
+                    <td>friclass.cpp</td>
+                    <td>Friend Classes & Member Friend Function</td>
+                    <td>NO</td>
+                <td></td>   
                 </tr>
           </tbody>
         </table>
