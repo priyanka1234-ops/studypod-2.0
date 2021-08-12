@@ -154,7 +154,7 @@
                 <td></td>   
                 </tr>
                 </tr>
-                 </<td>16</td>
+                 <td>16</td>
                     <td>11/08/2021</td>
                     <td>simple.cpp</td>
                     <td>Constructors with default arguments</td>
@@ -162,7 +162,7 @@
                 <td></td>  
                 </tr>
                 </tr>
-                 </<td>17</td>
+                 <td>17</td>
                     <td>12/08/2021</td>
                     <td>bankDeposit.cpp</td>
                     <td>Dynamic Initialization of Object Using Constructors</td>
