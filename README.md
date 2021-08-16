@@ -169,6 +169,30 @@
                     <td>NO</td>
                 <td></td>  
                 </tr>
+                </tr>
+                 <td>18</td>
+                    <td>13/08/2021</td>
+                    <td>cc.cpp</td>
+                    <td>Copy Constructor</td>
+                    <td>NO</td>
+                <td></td>  
+                </tr>
+                </tr>
+                 <td>19</td>
+                    <td>14/08/2021</td>
+                    <td>destructors.cpp</td>
+                    <td>Destructors</td>
+                    <td>NO</td>
+                <td></td>  
+                </tr>
+                </tr>
+                 <td>20</td>
+                    <td>15/08/2021</td>
+                    <td>--</td>
+                    <td>Basic of Inheritance</td>
+                    <td>NO</td>
+                <td></td>  
+                </tr>
           </tbody>
         </table>
     </div>
