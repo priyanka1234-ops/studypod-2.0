@@ -37,16 +37,16 @@
              <tr>
                     <td>1</td>
                     <td>21/07/2021</td>
-                    <td></td>
-                    <td> </td>
+                    <td>file.cpp</td>
+                    <td>Basic of C++ </td>
                     <td>NO</td>
                     <td></td>
                 </tr>   
                 <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
-                    <td></td>
-                    <td></td>
+                    <td>io.cpp</td>
+                    <td>Basic Input& Output</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
