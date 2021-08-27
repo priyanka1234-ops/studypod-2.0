@@ -39,23 +39,23 @@
                     <td>21/07/2021</td>
                     <td>file.cpp</td>
                     <td>Basic of C++ </td>
-                    <td>NO</td>
                     <td></td>
-                </tr>   
+                    <td></td>
+                </tr>
                 <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
-                    <td>io.cpp</td>
-                    <td>Basic Input& Output</td>
-                    <td>NO</td>
+                    <td>---</td>
+                    <td>Variables , Comments </td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>3</td>
                     <td>23/07/2021</td>
+                    <td>io.cpp</td>
+                    <td>Basic Input& Output</td>
                     <td></td>
-                    <td></td>
-                    <td>NO</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -71,7 +71,7 @@
                     <td>25/07/2021</td>
                     <td>numcheck.cpp</td>
                     <td>Control Structure </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -79,7 +79,7 @@
                     <td>26/07/2021</td>
                     <td>switch.cpp</td>
                     <td>Switch Case</td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -87,7 +87,7 @@
                     <td>27/07/2021</td>
                     <td>simcal.cpp</td>
                     <td>Simple Calculator</td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -95,7 +95,7 @@
                     <td>28/07/2021</td>
                     <td>array.cpp</td>
                     <td>Array </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                  <tr>
@@ -103,7 +103,7 @@
                     <td>29/07/2021</td>
                     <td>fun.cpp</td>
                     <td>Function</td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -111,7 +111,7 @@
                     <td>30/07/2021</td>
                     <td>struct.cpp</td>
                     <td>Structure</td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -119,7 +119,7 @@
                     <td>31/07/2021</td>
                     <td>rec.cpp</td>
                     <td>Recursion</td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                  <tr>
@@ -127,14 +127,14 @@
                     <td>01/08/2021</td>
                     <td>filed.cpp</td>
                     <td>default arguments </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                    <td>13</td>
                     <td>02/08/2021</td>
                     <td>class.cpp</td>
                     <td>Class</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>          
                 </tr>
                  </tr>
@@ -142,7 +142,7 @@
                     <td>03/08/2021</td>
                     <td>nestingfun.cpp</td>
                     <td>Nesting of member Function</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>          
                 </tr>  
                 </tr>
@@ -150,7 +150,7 @@
                     <td>04/08/2021</td>
                     <td>shop.cpp</td>
                     <td>Using Arrays in Class</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>   
                  </tr>  
                 </tr>
@@ -158,7 +158,7 @@
                     <td>05/08/2021</td>
                     <td>static.cpp</td>
                     <td>Statics Variables & function in OOPs</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>   
                  </tr>  
                 </tr>
@@ -166,7 +166,7 @@
                     <td>06/08/2021</td>
                     <td>frifun.cpp</td>
                     <td>Friend Function</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                  </tr>  
                 </tr>
@@ -174,7 +174,7 @@
                     <td>07/08/2021</td>
                     <td>friclass.cpp</td>
                     <td>Friend Classes & Member Friend Function</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>   
                 </tr>
                  </tr>
@@ -182,7 +182,7 @@
                     <td>08/08/2021</td>
                     <td>constructors.cpp</td>
                     <td>Constructors</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>   
                 </tr>
                 </tr>
@@ -190,7 +190,7 @@
                     <td>09/08/2021</td>
                     <td>point.cpp</td>
                     <td>Parameterized and Default constructor</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                 </tr>
                 </tr>
@@ -198,7 +198,7 @@
                     <td>10/08/2021</td>
                     <td>pointCO.cpp</td>
                     <td>Constructors Overloading</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>   
                 </tr>
                 </tr>
@@ -206,7 +206,7 @@
                     <td>11/08/2021</td>
                     <td>simple.cpp</td>
                     <td>Constructors with default arguments</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                 </tr>
                 </tr>
@@ -214,7 +214,7 @@
                     <td>12/08/2021</td>
                     <td>bankDeposit.cpp</td>
                     <td>Dynamic Initialization of Object Using Constructors</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                 </tr>
                 </tr>
@@ -222,7 +222,7 @@
                     <td>13/08/2021</td>
                     <td>cc.cpp</td>
                     <td>Copy Constructor</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                 </tr>
                 </tr>
@@ -230,7 +230,7 @@
                     <td>14/08/2021</td>
                     <td>destructors.cpp</td>
                     <td>Destructors</td>
-                    <td>NO</td>
+                    <td></td>
                 <td></td>  
                 </tr>
                 </tr>
@@ -238,7 +238,7 @@
                     <td>15/08/2021</td>
                     <td>--</td>
                     <td>Basic of Inheritance</td>
-                    <td>NO</td>
+                    <td</td>
                 <td></td>  
                 </tr>
                 <tr>
@@ -246,7 +246,7 @@
                     <td>16/08/2021</td>
                     <td></td>
                     <td> </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
               <tr>
@@ -254,7 +254,7 @@
                     <td>17/08/2021</td>
                     <td></td>
                     <td> </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>  
                 <tr>
@@ -262,7 +262,7 @@
                     <td>18/08/2021</td>
                     <td></td>
                     <td></td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -270,7 +270,7 @@
                     <td>19/08/2021</td>
                     <td></td>
                     <td> </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
                <tr>
@@ -278,7 +278,7 @@
                     <td>20/08/2021</td>
                     <td></td>
                     <td></td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr> 
                 <tr>
@@ -286,7 +286,7 @@
                     <td>21/08/2021</td>
                     <td></td>
                     <td> </td>
-                    <td>NO</td>
+                    <td></td>
                     <td></td>
                 </tr>
           </tbody>
