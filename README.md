@@ -244,8 +244,8 @@
                 <tr>
                     <td>27</td>
                     <td>16/08/2021</td>
-                    <td></td>
-                    <td> </td>
+                    <td>inhersy.cpp</td>
+                    <td>Inheritance syntax &visibility mode </td>
                     <td></td>
                     <td></td>
                 </tr>
