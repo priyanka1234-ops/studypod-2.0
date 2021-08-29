@@ -284,8 +284,8 @@
                 <tr>
                     <td>32</td>
                     <td>21/08/2021</td>
-                    <td></td>
-                    <td> </td>
+                    <td>ari.cpp</td>
+                    <td>Ambiguity Resolution in Inheritance </td>
                     <td></td>
                     <td></td>
                 </tr>
