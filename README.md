@@ -45,8 +45,8 @@
                 <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
-                    <td>---</td>
-                    <td>Variables , Comments </td>
+                    <td>operators.cpp</td>
+                    <td>Variables , Comments & Operators </td>
                     <td></td>
                     <td></td>
                 </tr>
