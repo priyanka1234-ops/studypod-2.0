@@ -252,16 +252,16 @@
               <tr>
                     <td>28</td>
                     <td>17/08/2021</td>
-                    <td></td>
-                    <td> </td>
+                    <td>SI.cpp</td>
+                    <td>Single Inheritance </td>
                     <td></td>
                     <td></td>
                 </tr>  
                 <tr>
                     <td>29</td>
                     <td>18/08/2021</td>
-                    <td></td>
-                    <td></td>
+                    <td>--</td>
+                    <td>Protected Access Modifier</td>
                     <td></td>
                     <td></td>
                 </tr>
